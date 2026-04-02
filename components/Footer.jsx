@@ -26,7 +26,7 @@ export default function Footer() {
               >
                 <img
                   className="footer__social-icon"
-                  src="public/img/common-footer/linkedin-ico.png"
+                  src="img/common-footer/linkedin-ico.png"
                   alt="LinkedIn"
                 />
               </a>
@@ -40,7 +40,7 @@ export default function Footer() {
               >
                 <img
                   className="footer__social-icon"
-                  src="public/img/common-footer/github-ico.png"
+                  src="img/common-footer/github-ico.png"
                   alt="GitHub"
                 />
               </a>
@@ -55,7 +55,7 @@ export default function Footer() {
               >
                 <img
                   className="footer__social-icon"
-                  src="public/img/common-footer/twitter-ico.png"
+                  src="img/common-footer/twitter-ico.png"
                   alt="Twitter"
                 />
               </a>
